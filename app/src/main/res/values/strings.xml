@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Exercise_6</string>
+    <string name="prime">Prime</string>
+    <string name="nonPrime">Non Prime</string>
 </resources>
