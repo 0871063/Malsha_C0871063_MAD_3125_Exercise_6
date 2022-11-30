@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView answerImage;
     private int selectedNumber;
     private int wrongAnswerCount = 0;
-    long seconds = 0;
+    int seconds = 0;
     Handler handler = new Handler();
     Runnable runnable;
     int delay = 3000;
